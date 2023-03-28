@@ -1,6 +1,4 @@
 ### Aloha, I'm Dayne.
-
+I 
 --
-<a href="https://trackgit.com">
-<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lfsdll0tolv991uswnlf" alt="trackgit-views" />
-</a>
+![](https://komarev.com/ghpvc/?username=DayneLalmond&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
