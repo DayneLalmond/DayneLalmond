@@ -1,5 +1,5 @@
-### Aloha, I'm Dayne.
-Fullstack developer, React proficient, AI enthusiast
+# Aloha, I'm Dayne.
+Junior full-stack developer, React focused, AI enthusiast
 
 ### Portfolio
 <a href="https://daylo.dev/"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
@@ -11,5 +11,11 @@ Fullstack developer, React proficient, AI enthusiast
 <a href="https://www.linkedin.com/in/dayne-lalmond/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 --
 
-##### Profile
+
+### Support
+We share the Earth, support a cause!
+
+<a href="http://onetreeplanted.refr.cc/daynel"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=Donate&message=One Tree Planted&color=success"></a>
+
+#### Profile
 ![](https://komarev.com/ghpvc/?username=DayneLalmond&color=brightgreen&style=for-the-badge&label=Views)
