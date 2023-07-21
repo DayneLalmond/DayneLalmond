@@ -1,5 +1,7 @@
 # Aloha, I'm Dayne.
-Junior full-stack developer, React focused, AI enthusiast
+Junior web developer, React focused, AI enthusiast
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&duration=3000&color=F7F7F7&width=650&height=30&lines=Currently+learning+and+improving+my+code;Looking+for+a+career+developing+front+end+using+react;)
 
 ### Portfolio
 <a href="https://daylo.dev/"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
