@@ -1,10 +1,21 @@
-# Aloha, I'm Dayne.
-Junior web developer, React focused, AI enthusiast
+<h1 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" alt="😄" width="32" height="32"> Aloha, I'm Dayne</h1>
+<p align="center">
+Web developer, automation contributor, AI enthusiast 
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f305/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f305/512.gif" alt="🌅" width="32" height="32">
+</picture>
+</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&duration=3000&color=F7F7F7&width=650&height=30&lines=Currently+learning+and+improving+my+code;Looking+for+a+career+developing+front+end+using+react;)
+<p align="center">
+<a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="36" width="150"></a>
+</p>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&duration=8000&color=F7F7F7&width=1400&height=30&lines=Yaml+|+HTML+|+CSS+|+Bootstrap+|+jQuery+|+Javascript+|+Java+|+Python+|+Node+|+Express+|+SQLite+|+MySql+|+MongoDB+|+GraphQL+|+React+|+Go;)
 
 ### Portfolio
 <a href="https://daylo.dev/"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+
 
 ### Skills
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
