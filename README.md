@@ -8,7 +8,7 @@ Web developer, automation contributor, AI enthusiast
 </p>
 
 <p align="center">
-<a href="https://github.com/DayneLalmond"><img src="https://readme-typing-svg.herokuapp.com?lines=Join+my+slack+study+group!+💭;Collaborate+with+the+dev+community!;Live+study+sessions+every+weekend!;&center=true&width=400&height=40&duration=2400"></a>
+<a href="https://github.com/DayneLalmond"><img src="https://readme-typing-svg.herokuapp.com?lines=Join+my+slack+study+group!+💭;Develop+with+the+community!;Live+study+sessions+every+weekend!;&center=true&width=400&height=40&duration=2400"></a>
 </p>
 
 ### About Me
@@ -32,9 +32,7 @@ Web developer, automation contributor, AI enthusiast
 
 
 ### Support
-We share the Earth, support a cause!
-
-<a href="http://onetreeplanted.refr.cc/daynel"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=Donate&message=One Tree Planted&color=success"></a>
+We share the Earth, support a healthy cause. <a href="http://onetreeplanted.refr.cc/daynel" target="_blank">Plant</a> a tree.
 
 #### Profile
 ![](https://komarev.com/ghpvc/?username=DayneLalmond&color=brightgreen&style=for-the-badge&label=Views)
