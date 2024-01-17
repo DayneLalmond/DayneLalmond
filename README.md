@@ -1,27 +1,28 @@
 <h1 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" alt="😄" width="32" height="32"> Aloha, I'm Dayne</h1>
 <p align="center">
-Web developer, automation contributor, AI enthusiast 
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f305/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f305/512.gif" alt="🌅" width="32" height="32">
-</picture>
+<a href="https://daylo.dev/"><img src="https://img.shields.io/badge/daylo.dev-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </p>
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="36" width="150"></a>
+Web developer, automation contributor, AI enthusiast 
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&duration=8000&color=F7F7F7&width=1400&height=90&lines=Yaml+|+HTML+|+CSS+|+Bootstrap+|+jQuery+|+Javascript+|+Java+|+Python+|+Node+|+Express+|+SQLite+|+MySql+|+MongoDB+|+GraphQL+|+React+|+Go;)
+<p align="center">
+<a href="https://github.com/DayneLalmond"><img src="https://readme-typing-svg.herokuapp.com?lines=Join+my+slack+study+group!+💭;Collaborate+with+the+dev+community!;Live+study+sessions+every+weekend!;&center=true&width=400&height=40&duration=2400"></a>
+</p>
 
-### Portfolio
-<a href="https://daylo.dev/"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+### About Me
+- 🔭 I am:
+  - Building communities to learn and develop together
+  - Creating scalable applications for productivity
+  - Securing completed projects to registered domains
 
+### Let's Connect
+- 🔍 I am:
+  - Networking with recruiters via <a href="https://www.linkedin.com/in/dayne-lalmond/">**LinkedIn**</a>
+  - Studying with developers via <a href="https://github.com/DayneLalmond">**Slack**</a>
 
-### Skills
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-
-### Connect
-<a href="https://www.linkedin.com/in/dayne-lalmond/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://help.buymeacoffee.com/en/articles/5885162-how-to-add-a-button-or-a-widget-to-your-website" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="28" width="120"></a>
 --
 
 <p align="center">
@@ -37,3 +38,4 @@ We share the Earth, support a cause!
 
 #### Profile
 ![](https://komarev.com/ghpvc/?username=DayneLalmond&color=brightgreen&style=for-the-badge&label=Views)
+
