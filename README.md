@@ -1,11 +1,13 @@
 <h1 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" alt="😄" width="32" height="32"> Aloha, I'm Dayne</h1>
 <p align="center">
 <a href="https://daylo.dev/"><img src="https://img.shields.io/badge/daylo.dev-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-<a href="https://daylo.dev/"><img src="https://komarev.com/ghpvc/?username=DayneLalmond&color=lightgrey&style=for-the-badge&label=Profile+Views"></a>
+<a href="https://github.com/DayneLalmond"><img src="https://komarev.com/ghpvc/?username=DayneLalmond&color=lightgrey&style=for-the-badge&label=Profile+Views"></a>
 </p>
 
 <p align="center">
-Web developer, automation contributor, AI enthusiast 
+  <i>
+Web developer, automation contributor, AI enthusiast
+  </i>
 </p>
 
 <p align="center">
@@ -32,7 +34,7 @@ Web developer, automation contributor, AI enthusiast
 </p>
 
 ### Automate
-My day to day routines require my iPhone on me. I enjoy creating necessary automation using <a href="https://support.apple.com/guide/shortcuts/welcome/ios" target="_blank">**Shortcuts**</a>. Simply create and automate!
+My daily routines require my iPhone on me. I enjoy creating necessary automation using <a href="https://support.apple.com/guide/shortcuts/welcome/ios" target="_blank">**Shortcuts**</a>. Simply create and automate!
 
 ### Cultivate
 We share the Earth, support a healthy cause. <a href="http://onetreeplanted.refr.cc/daynel" target="_blank">**Plant**</a> a tree. “It's not about what it is, it's about what it can become.”
