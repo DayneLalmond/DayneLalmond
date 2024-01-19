@@ -7,7 +7,7 @@
 
 <p align="center">
   <i>
-Web developer, automation contributor, AI enthusiast
+    Web developer, automation contributor, AI enthusiast
   </i>
 </p>
 
@@ -27,15 +27,18 @@ Web developer, automation contributor, AI enthusiast
   - Studying with developers via <a href="https://github.com/DayneLalmond">**Slack**</a>.
   - Establishing new connections via <a href="https://github.com/DayneLalmond">**X**</a>.
 
-<a href="https://github.com/DayneLalmond" target='_blank'><img src="https://i.postimg.cc/tgdrBvfH/email.png" border="0" alt="email" width="30px"/></a>
-<i>
-Of course, emails are always welcome!
-</i>
+<p align="center">
+<a href="https://github.com/DayneLalmond" target='_blank'><img src="https://i.postimg.cc/tgdrBvfH/email.png" border="0" alt="email" width="32px"/></a>
+  <i>
+    Of course, emails are always welcome!
+  </i>
+</p>
+
 ----
 
 <p align="center">
   <a href="https://github.com/DayneLalmond">
-    <img align="right"  height="200px" src="https://github-readme-stats.vercel.app/api?username=DayneLalmond&show_icons=true&hide_border=true&title_color=dedee0&amp&icon_color=f96e46&amp&text_color=dedee0&amp&bg_color=0d1117&count_private=true&include_all_commits=true"/>
+    <img align="right"  height="200px" src="https://github-readme-stats.vercel.app/api?username=DayneLalmond&show_icons=true&hide_border=true&title_color=dedee0&amp&icon_color=f96e46&amp&text_color=dedee0&amp&bg_color=0d1117&count_private=true&include_all_commits=false"/>
 </p>
 
 ### Automate
@@ -45,7 +48,10 @@ My daily routines require my iPhone on me. I enjoy creating necessary automation
 We share the Earth, support a healthy cause. <a href="http://onetreeplanted.refr.cc/daynel" target="_blank">**Plant**</a> a tree. “It's not about what it is, it's about what it can become.”
 ― Dr. Seuss, The Lorax
 
-### Support
+----
+
+#### Support
+
 <a href="https://help.buymeacoffee.com/en/articles/5885162-how-to-add-a-button-or-a-widget-to-your-website" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="30" width="120"></a>
 
 <p align="center">
