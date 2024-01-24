@@ -42,7 +42,7 @@
 </p>
 
 ### Automate
-My daily routines require my iPhone on me. I enjoy creating necessary automation using <a href="https://support.apple.com/guide/shortcuts/welcome/ios" target="_blank">**Shortcuts**</a>. Simply create and automate.
+Get started using automation with simple tasks. My daily routines require my iPhone on me. I enjoy creating necessary automation using <a href="https://support.apple.com/guide/shortcuts/welcome/ios" target="_blank">**Shortcuts**</a>. Simply create and automate. For Android users or if you prefer, an additional app capable of similar automation I suggest is <a href="https://ifttt.com" target="_blank">**IFTTT** (IF Then, Then That)</a>.
 
 ### Cultivate
 We share the Earth, support a healthy cause. <a href="http://onetreeplanted.refr.cc/daynel" target="_blank">**Plant**</a> a tree. “It's not about what it is, it's about what it can become.”
