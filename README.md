@@ -42,21 +42,24 @@
 </p>
 
 ### Automate
-Get started using automation with simple tasks. My daily routines require my iPhone on me. I enjoy creating necessary automation using <a href="https://support.apple.com/guide/shortcuts/welcome/ios" target="_blank">**Shortcuts**</a>. Simply create and automate. For Android users or if you prefer, an additional app capable of similar automation I suggest is <a href="https://ifttt.com" target="_blank">**IFTTT** (IF Then, Then That)</a>.
+Get started automating with simple tasks. My daily routines require my iPhone on me. I enjoy creating necessary automation using <a href="https://support.apple.com/guide/shortcuts/welcome/ios" target="_blank">**Shortcuts**</a>. Simply create and automate. For Android users, or if you prefer, <a href="https://ifttt.com" target="_blank">**IFTTT** (IF This, Then That)</a> is an excellent alternative.
 
-### Cultivate
+### Cultivate 
 We share the Earth, support a healthy cause. <a href="http://onetreeplanted.refr.cc/daynel" target="_blank">**Plant**</a> a tree. “It's not about what it is, it's about what it can become.”
-― Dr. Seuss, The Lorax
+― Dr. Seuss, The Lorax <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32">
 
 ----
 
 #### Support
+Whether you are using my completed applications, enjoying the features of my dev community, or just want to assist in refueling my hybrid energy, everything counts. Consider a cup of coffee. Cheers!
 
 <a href="https://help.buymeacoffee.com/en/articles/5885162-how-to-add-a-button-or-a-widget-to-your-website" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="30" width="120"></a>
 
 <p align="center">
   <i>
-Open to work - Contact me!
+   <b>
+     Open to work - Connect with me
+   </b>
   </i>
 </p>
 
