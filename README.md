@@ -1,18 +1,18 @@
 <h1 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" alt="😄" width="32" height="32"> Aloha, I'm Dayne</h1>
 
+<h3 align="center">
+  <i>
+    Web developer, automation contributor, AI enthusiast
+  </i>
+</h3>
+
 <p align="center">
 <a href="https://daylo.dev/"><img src="https://img.shields.io/badge/daylo.dev-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 <a href="https://github.com/DayneLalmond"><img src="https://komarev.com/ghpvc/?username=DayneLalmond&color=lightgrey&style=for-the-badge&label=Profile+Views"></a>
 </p>
 
 <p align="center">
-  <i>
-    Web developer, automation contributor, AI enthusiast
-  </i>
-</p>
-
-<p align="center">
-<a href="https://github.com/DayneLalmond"><img src="https://readme-typing-svg.herokuapp.com?lines=Join+my+slack+study+group!+💭;Develop+with+the+community!;Study+sessions+every+weekend!;&center=true&width=400&height=40&duration=2400"></a>
+<a href="https://join.slack.com/t/ssg-qxn8446/shared_invite/zt-2bn12k14l-4OezGpeteJ9up9HjbU3Pdw"><img src="https://readme-typing-svg.herokuapp.com?lines=Join+my+slack+study+group!+💭;Develop+with+the+community!;Study+sessions+every+weekend!;&center=true&width=400&height=40&duration=2400"></a>
 </p>
 
 ### About Me
@@ -24,11 +24,11 @@
 ### Let's Connect
 - 🔍 Find me:
   - Networking with recruiters via <a href="https://www.linkedin.com/in/dayne-lalmond/">**LinkedIn**</a>.
-  - Studying with developers via <a href="https://github.com/DayneLalmond">**Slack**</a>.
+  - Studying with developers via <a href="https://join.slack.com/t/ssg-qxn8446/shared_invite/zt-2bn12k14l-4OezGpeteJ9up9HjbU3Pdw">**Slack**</a>.
   - Establishing new connections via <a href="https://github.com/DayneLalmond">**X**</a>.
 
 <p align="center">
-<a href="https://github.com/DayneLalmond" target='_blank'><img src="https://i.postimg.cc/tgdrBvfH/email.png" border="0" alt="email" width="32px"/></a>
+<a href="mailto:daylosocial@gmail.com" target='_blank'><img src="https://i.postimg.cc/tgdrBvfH/email.png" border="0" alt="email" width="32px"/></a>
   <i>
     Of course, emails are always welcome!
   </i>
@@ -53,13 +53,11 @@ We share the Earth, support a healthy cause. <a href="http://onetreeplanted.refr
 #### Support
 Whether you are using my completed applications, enjoying the features of my dev community, or just want to assist in refueling my hybrid energy, everything counts. Consider a cup of coffee. Cheers!
 
-<a href="https://help.buymeacoffee.com/en/articles/5885162-how-to-add-a-button-or-a-widget-to-your-website" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="30" width="120"></a>
+<a href="https://www.buymeacoffee.com/daylo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="30" width="120"></a>
 
-<p align="center">
+<h4 align="center">
   <i>
-   <b>
      Open to work - Connect with me
-   </b>
   </i>
-</p>
+</h4>
 
