@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-<a href="https://join.slack.com/t/ssg-qxn8446/shared_invite/zt-2bn12k14l-4OezGpeteJ9up9HjbU3Pdw"><img src="https://readme-typing-svg.herokuapp.com?lines=Join+my+slack+study+group!+💭;Develop+with+the+community!;Study+sessions+every+weekend!;&center=true&width=400&height=40&duration=2400"></a>
+<a href="https://join.slack.com/t/ssg-qxn8446/shared_invite/zt-2bn12k14l-4OezGpeteJ9up9HjbU3Pdw"><img src="https://readme-typing-svg.herokuapp.com?lines=Join+my+slack+study+group!+💭;Develop+with+the+community!;Study+sessions+now+available!;&center=true&width=400&height=40&duration=2400"></a>
 </p>
 
 ### About Me
@@ -25,7 +25,7 @@
 - 🔍 Find me:
   - Networking with recruiters via <a href="https://www.linkedin.com/in/dayne-lalmond/">**LinkedIn**</a>.
   - Studying with developers via <a href="https://join.slack.com/t/ssg-qxn8446/shared_invite/zt-2bn12k14l-4OezGpeteJ9up9HjbU3Pdw">**Slack**</a>.
-  - Establishing new connections via <a href="https://github.com/DayneLalmond">**X**</a>.
+  - Establishing new connections via <a href="https://twitter.com/daylodev">**X**</a>.
 
 <p align="center">
 <a href="mailto:daylosocial@gmail.com" target='_blank'><img src="https://i.postimg.cc/tgdrBvfH/email.png" border="0" alt="email" width="32px"/></a>
