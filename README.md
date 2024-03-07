@@ -19,7 +19,7 @@
 - 🔭 I am:
   - Creating scalable applications for productivity.
   - Building communities to learn and develop together.
-  - Securing completed projects to registered domains.
+  - Securing data with encryption and authentication.
 
 ### Let's Connect
 - 🔍 Find me:
@@ -51,7 +51,7 @@ We share the Earth, support a healthy cause. <a href="http://onetreeplanted.refr
 ----
 
 #### Support
-Whether you are using my completed applications, enjoying the features of my dev community, or just want to assist in refueling my hybrid energy, everything counts. Consider a cup of coffee. Cheers!
+Whether you are using my completed applications, enjoying the features of my dev community, or simply sharing your aloha, everything counts. Cheers!
 
 <a href="https://www.buymeacoffee.com/daylo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="30" width="120"></a>
 
